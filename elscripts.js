@@ -14,7 +14,7 @@ var cellColors = {
 	70: 'yellow',
 	140: 'orange',
 	210: 'green',
-	280: 'blue',
+	280: 'cyan',
 	350: 'red'
 }
 
