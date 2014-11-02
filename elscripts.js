@@ -13,8 +13,8 @@ document.body.appendChild(gameDiv);
 var cellColors = {
 	70: 'yellow',
 	140: 'orange',
-	210: 'green',
-	280: 'cyan',
+	210: 'lime',
+	280: 'navy',
 	350: 'red'
 }
 
